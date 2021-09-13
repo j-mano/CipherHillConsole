@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{23B8E747-5625-4986-9371-EDF1784DF4EB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChiperHillConsole/Program.cs">
+    <Files>
+      <File FileName="ChiperHillConsole/Program.cs" Line="8" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChiperHillConsole" expanded="True">
+            <Node name="ChiperHillConsole" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChiperHillConsole FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
